@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="924f1c2f-eec5-4233-94ac-4d78a45a4272" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="924f1c2f-eec5-4233-94ac-4d78a45a4272" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +44,7 @@
     &quot;spring.configuration.checksum&quot;: &quot;d1f1c02f3cd2b35f4567a3b205c287bf&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.MainTest">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="app.Application" />
       <module name="spring-beans" />
@@ -71,8 +69,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MainTest" />
         <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -91,6 +89,7 @@
       <workItem from="1659980155830" duration="45000" />
       <workItem from="1659980276197" duration="18000" />
       <workItem from="1660076504246" duration="11116000" />
+      <workItem from="1660091967043" duration="437000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1660091021042</created>
